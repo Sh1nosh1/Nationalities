@@ -14,7 +14,7 @@ namespace Nationalities
     class EnglishMan : Human
     {
         /// <summary>
-        /// Constractor without parameters
+        /// Constructor without parameters
         /// </summary>
         public EnglishMan() { }
         /// <summary>

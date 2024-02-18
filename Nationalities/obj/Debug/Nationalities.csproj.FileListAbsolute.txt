@@ -1,0 +1,7 @@
+S:\work\FoAP\Nationalities\bin\Debug\Nationalities.exe.config
+S:\work\FoAP\Nationalities\bin\Debug\Nationalities.exe
+S:\work\FoAP\Nationalities\bin\Debug\Nationalities.pdb
+S:\work\FoAP\Nationalities\obj\Debug\Nationalities.csproj.AssemblyReference.cache
+S:\work\FoAP\Nationalities\obj\Debug\Nationalities.csproj.CoreCompileInputs.cache
+S:\work\FoAP\Nationalities\obj\Debug\Nationalities.exe
+S:\work\FoAP\Nationalities\obj\Debug\Nationalities.pdb
